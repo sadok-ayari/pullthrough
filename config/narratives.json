@@ -1,0 +1,33 @@
+{
+  "title": "Message pull-through",
+  "notes": "Five to six narratives, each with three to five pillars. Pillars are the words your spokespeople actually use; the score is whether they survived the edit.",
+  "narratives": [
+    {
+      "id": "delivery",
+      "name": "The money reaches the ground",
+      "pillars": [
+        {"id": "disbursed", "label": "Funds disbursed", "keywords": ["disbursed", "disbursement", "first tranche", "money has moved"]},
+        {"id": "beneficiaries", "label": "Named beneficiaries", "keywords": ["beneficiaries", "households", "farmers", "cooperatives"]},
+        {"id": "timeline", "label": "On schedule", "keywords": ["on schedule", "ahead of schedule", "on time", "within the year"]}
+      ]
+    },
+    {
+      "id": "model",
+      "name": "The model is replicable",
+      "pillars": [
+        {"id": "blended", "label": "Blended finance", "keywords": ["blended finance", "guarantee", "concessional", "first loss"]},
+        {"id": "replicable", "label": "Replicable elsewhere", "keywords": ["replicable", "scalable", "template", "other countries"]},
+        {"id": "evidence", "label": "Evidence base", "keywords": ["evidence", "evaluation", "results framework", "independent review"]}
+      ]
+    },
+    {
+      "id": "ownership",
+      "name": "National ownership",
+      "pillars": [
+        {"id": "ministry", "label": "Ministry leadership", "keywords": ["ministry", "government-led", "national strategy", "host country"]},
+        {"id": "local", "label": "Local delivery", "keywords": ["local partners", "local organisations", "community groups", "national staff"]},
+        {"id": "capacity", "label": "Capacity built", "keywords": ["capacity", "training", "skills transfer", "in-house team"]}
+      ]
+    }
+  ]
+}

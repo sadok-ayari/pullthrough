@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pullthrough"
+version = "1.0.0"
+description = "Score whether coverage carried your narrative, not just your keywords. Deterministic, explainable, no model in the loop."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Sadok Ayari"}]
+keywords = ["communications", "message pull-through", "media analysis", "narrative", "briefing", "cli"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Communications",
+]
+
+[project.urls]
+Homepage = "https://github.com/sadok-ayari/pullthrough"
+
+[project.scripts]
+pullthrough = "pullthrough.cli:main"
+
+[tool.setuptools]
+packages = ["pullthrough"]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "First tranche disbursed to 4,000 farming households on schedule",
+    "outlet": "National Daily",
+    "url": "https://example.org/a1",
+    "published": "2026-11-11T08:00:00+00:00",
+    "summary": "The first tranche of the facility has been disbursed to 4,000 farming households, a ministry official said, with cooperatives reporting the money arrived on schedule. Local partners will run the training component."
+  },
+  {
+    "title": "Blended finance facility eyes expansion to two more countries",
+    "outlet": "Finance Wire",
+    "url": "https://example.org/a2",
+    "published": "2026-11-11T10:00:00+00:00",
+    "summary": "Officials describe the guarantee structure as replicable, pointing to an independent review of the results framework. No disbursement figures were given."
+  },
+  {
+    "title": "Ministry scraps green guarantee after donor pressure",
+    "outlet": "Weekend Review",
+    "url": "https://example.org/a3",
+    "published": "2026-11-10T18:00:00+00:00",
+    "summary": "The ministry has scrapped the blended finance guarantee, weeks after the first tranche of concessional money was disbursed, according to two people briefed on the decision."
+  },
+  {
+    "title": "Cotton prices fall for a third week",
+    "outlet": "Markets Today",
+    "url": "https://example.org/a4",
+    "published": "2026-11-11T06:00:00+00:00",
+    "summary": "Traders point to slow demand from mills and a stronger currency."
+  },
+  {
+    "title": "Governments must lead on climate finance, minister tells summit",
+    "outlet": "Global Post",
+    "url": "https://example.org/a5",
+    "published": "2026-11-11T12:00:00+00:00",
+    "summary": "The minister said the national strategy would be government-led, with national staff running delivery and a training programme to build an in-house team."
+  }
+]
